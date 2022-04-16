@@ -1,0 +1,62 @@
+﻿<Window x:Class="ClinometerGuage.MainWindow"
+        xmlns:local="clr-namespace:ClinometerGuage"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="Clinometer Guage" Height="542" Width="555.5">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Row="0" Grid.Column="0" >
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition  />
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <local:RoundClinometer      Grid.Row="0" Grid.Column="0" ZSize="230" ZBorder="00" x:Name="rndclinometer"       />
+
+            <local:VerticalClinometer   Grid.Row="0" Grid.Column="1"  x:Name="verticalclinometer"                          />
+
+            <local:HorizontalClinometer Grid.Row="1" Grid.Column="0"  x:Name="Horizontalclinometer"                        />
+            <Grid                       Grid.Row="1" Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Label Content="X:" Grid.Row="0" Grid.Column="0" VerticalAlignment="Center"/>
+                <Label Content="Y:" Grid.Row="1" Grid.Column="0" VerticalAlignment="Center"/>
+
+                <Label Content="00" Grid.Row="0" Grid.Column="1" VerticalAlignment="Center" FontFamily="/ClinometerGuage;component/Clinometer/#NI7SEG" Name="lbl_Xaxis"/>
+                <Label Content="00" Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" FontFamily="/ClinometerGuage;component/Clinometer/#NI7SEG" Name="lbl_Yaxis"/>
+
+            </Grid>
+        </Grid>
+        <Slider              Grid.Row="0" Grid.Column="1"  VerticalAlignment="Center"  RenderTransformOrigin="0.5,0.5"  Name="sld_Vertical"   ValueChanged="sld_Vertical_ValueChanged" Maximum="200" Minimum="-200">
+            <Slider.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Slider.RenderTransform>
+        </Slider>
+        <Slider              Grid.Row="1" Grid.Column="0"  VerticalAlignment="Center"  Margin="10"                      Name="sld_Horizontal" ValueChanged="sld_Horizontal_ValueChanged" Maximum="+200" Minimum="-200" />
+    </Grid>
+</Window>

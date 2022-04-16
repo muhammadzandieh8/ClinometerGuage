@@ -1,0 +1,232 @@
+C:\Users\m.zandieh\source\repos\ClinometerGuage\ClinometerGuage\bin\Debug\ClinometerGuage.exe.config
+C:\Users\m.zandieh\source\repos\ClinometerGuage\ClinometerGuage\bin\Debug\ClinometerGuage.exe
+C:\Users\m.zandieh\source\repos\ClinometerGuage\ClinometerGuage\bin\Debug\ClinometerGuage.pdb
+C:\Users\m.zandieh\source\repos\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignColors.dll
+C:\Users\m.zandieh\source\repos\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\m.zandieh\source\repos\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignColors.pdb
+C:\Users\m.zandieh\source\repos\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\m.zandieh\source\repos\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\m.zandieh\source\repos\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.csproj.AssemblyReference.cache
+C:\Users\m.zandieh\source\repos\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.csproj.SuggestedBindingRedirects.cache
+C:\Users\m.zandieh\source\repos\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\HorizontalClinometer.g.cs
+C:\Users\m.zandieh\source\repos\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\RoundClinometer.g.cs
+C:\Users\m.zandieh\source\repos\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\VerticalClinometer.g.cs
+C:\Users\m.zandieh\source\repos\ClinometerGuage\ClinometerGuage\obj\Debug\MainWindow.g.cs
+C:\Users\m.zandieh\source\repos\ClinometerGuage\ClinometerGuage\obj\Debug\UC_Clinometer.g.cs
+C:\Users\m.zandieh\source\repos\ClinometerGuage\ClinometerGuage\obj\Debug\App.g.cs
+C:\Users\m.zandieh\source\repos\ClinometerGuage\ClinometerGuage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\m.zandieh\source\repos\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage_MarkupCompile.cache
+C:\Users\m.zandieh\source\repos\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage_MarkupCompile.lref
+C:\Users\m.zandieh\source\repos\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\HorizontalClinometer.baml
+C:\Users\m.zandieh\source\repos\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\RoundClinometer.baml
+C:\Users\m.zandieh\source\repos\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\VerticalClinometer.baml
+C:\Users\m.zandieh\source\repos\ClinometerGuage\ClinometerGuage\obj\Debug\MainWindow.baml
+C:\Users\m.zandieh\source\repos\ClinometerGuage\ClinometerGuage\obj\Debug\UC_Clinometer.baml
+C:\Users\m.zandieh\source\repos\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.g.resources
+C:\Users\m.zandieh\source\repos\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.Properties.Resources.resources
+C:\Users\m.zandieh\source\repos\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.csproj.GenerateResource.cache
+C:\Users\m.zandieh\source\repos\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.csproj.CoreCompileInputs.cache
+C:\Users\m.zandieh\source\repos\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.csproj.CopyComplete
+C:\Users\m.zandieh\source\repos\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.exe
+C:\Users\m.zandieh\source\repos\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.pdb
+E:\Zandieh\Clinometer\ClinometerGuage\ClinometerGuage\bin\Debug\ClinometerGuage.exe.config
+E:\Zandieh\Clinometer\ClinometerGuage\ClinometerGuage\bin\Debug\ClinometerGuage.exe
+E:\Zandieh\Clinometer\ClinometerGuage\ClinometerGuage\bin\Debug\ClinometerGuage.pdb
+E:\Zandieh\Clinometer\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignColors.dll
+E:\Zandieh\Clinometer\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Zandieh\Clinometer\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignColors.pdb
+E:\Zandieh\Clinometer\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Zandieh\Clinometer\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Zandieh\Clinometer\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\HorizontalClinometer.g.cs
+E:\Zandieh\Clinometer\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\RoundClinometer.g.cs
+E:\Zandieh\Clinometer\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\VerticalClinometer.g.cs
+E:\Zandieh\Clinometer\ClinometerGuage\ClinometerGuage\obj\Debug\MainWindow.g.cs
+E:\Zandieh\Clinometer\ClinometerGuage\ClinometerGuage\obj\Debug\App.g.cs
+E:\Zandieh\Clinometer\ClinometerGuage\ClinometerGuage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Zandieh\Clinometer\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage_MarkupCompile.cache
+E:\Zandieh\Clinometer\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage_MarkupCompile.lref
+E:\Zandieh\Clinometer\ClinometerGuage\ClinometerGuage\obj\Debug\App.baml
+E:\Zandieh\Clinometer\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\HorizontalClinometer.baml
+E:\Zandieh\Clinometer\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\RoundClinometer.baml
+E:\Zandieh\Clinometer\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\VerticalClinometer.baml
+E:\Zandieh\Clinometer\ClinometerGuage\ClinometerGuage\obj\Debug\MainWindow.baml
+E:\Zandieh\Clinometer\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.g.resources
+E:\Zandieh\Clinometer\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.Properties.Resources.resources
+E:\Zandieh\Clinometer\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.csproj.GenerateResource.cache
+E:\Zandieh\Clinometer\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.csproj.CoreCompileInputs.cache
+E:\Zandieh\Clinometer\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.csproj.CopyComplete
+E:\Zandieh\Clinometer\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.exe
+E:\Zandieh\Clinometer\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.pdb
+E:\Zandieh\Clinometer\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.csprojResolveAssemblyReference.cache
+E:\Zandieh\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\bin\Debug\ClinometerGuage.exe.config
+E:\Zandieh\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\bin\Debug\ClinometerGuage.exe
+E:\Zandieh\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\bin\Debug\ClinometerGuage.pdb
+E:\Zandieh\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignColors.dll
+E:\Zandieh\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Zandieh\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignColors.pdb
+E:\Zandieh\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Zandieh\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Zandieh\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\HorizontalClinometer.g.cs
+E:\Zandieh\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\RoundClinometer.g.cs
+E:\Zandieh\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\VerticalClinometer.g.cs
+E:\Zandieh\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\MainWindow.g.cs
+E:\Zandieh\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\App.g.cs
+E:\Zandieh\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Zandieh\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage_MarkupCompile.cache
+E:\Zandieh\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage_MarkupCompile.lref
+E:\Zandieh\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\App.baml
+E:\Zandieh\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\HorizontalClinometer.baml
+E:\Zandieh\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\RoundClinometer.baml
+E:\Zandieh\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\VerticalClinometer.baml
+E:\Zandieh\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\MainWindow.baml
+E:\Zandieh\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.g.resources
+E:\Zandieh\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.Properties.Resources.resources
+E:\Zandieh\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.csproj.GenerateResource.cache
+E:\Zandieh\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.csproj.CoreCompileInputs.cache
+E:\Zandieh\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.csproj.CopyComplete
+E:\Zandieh\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.exe
+E:\Zandieh\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.pdb
+E:\Zandieh\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.csprojResolveAssemblyReference.cache
+G:\Project\Inclinometer Gauge\clinometerguage-master\clinometerguage-master\ClinometerGuage\ClinometerGuage\bin\Debug\ClinometerGuage.exe.config
+G:\Project\Inclinometer Gauge\clinometerguage-master\clinometerguage-master\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.exe
+G:\Project\Inclinometer Gauge\clinometerguage-master\clinometerguage-master\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.pdb
+G:\Project\Inclinometer Gauge\clinometerguage-master\clinometerguage-master\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\HorizontalClinometer.g.cs
+G:\Project\Inclinometer Gauge\clinometerguage-master\clinometerguage-master\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\RoundClinometer.g.cs
+G:\Project\Inclinometer Gauge\clinometerguage-master\clinometerguage-master\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\VerticalClinometer.g.cs
+G:\Project\Inclinometer Gauge\clinometerguage-master\clinometerguage-master\ClinometerGuage\ClinometerGuage\obj\Debug\App.g.cs
+G:\Project\Inclinometer Gauge\clinometerguage-master\clinometerguage-master\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage_MarkupCompile.cache
+G:\Project\Inclinometer Gauge\clinometerguage-master\clinometerguage-master\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage_MarkupCompile.lref
+G:\Project\Inclinometer Gauge\clinometerguage-master\clinometerguage-master\ClinometerGuage\ClinometerGuage\bin\Debug\ClinometerGuage.exe
+G:\Project\Inclinometer Gauge\clinometerguage-master\clinometerguage-master\ClinometerGuage\ClinometerGuage\bin\Debug\ClinometerGuage.pdb
+G:\Project\Inclinometer Gauge\clinometerguage-master\clinometerguage-master\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignColors.dll
+G:\Project\Inclinometer Gauge\clinometerguage-master\clinometerguage-master\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignThemes.Wpf.dll
+G:\Project\Inclinometer Gauge\clinometerguage-master\clinometerguage-master\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignColors.pdb
+G:\Project\Inclinometer Gauge\clinometerguage-master\clinometerguage-master\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignThemes.Wpf.pdb
+G:\Project\Inclinometer Gauge\clinometerguage-master\clinometerguage-master\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignThemes.Wpf.xml
+G:\Project\Inclinometer Gauge\clinometerguage-master\clinometerguage-master\ClinometerGuage\ClinometerGuage\obj\Debug\MainWindow.g.cs
+G:\Project\Inclinometer Gauge\clinometerguage-master\clinometerguage-master\ClinometerGuage\ClinometerGuage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Project\Inclinometer Gauge\clinometerguage-master\clinometerguage-master\ClinometerGuage\ClinometerGuage\obj\Debug\App.baml
+G:\Project\Inclinometer Gauge\clinometerguage-master\clinometerguage-master\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\HorizontalClinometer.baml
+G:\Project\Inclinometer Gauge\clinometerguage-master\clinometerguage-master\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\RoundClinometer.baml
+G:\Project\Inclinometer Gauge\clinometerguage-master\clinometerguage-master\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\VerticalClinometer.baml
+G:\Project\Inclinometer Gauge\clinometerguage-master\clinometerguage-master\ClinometerGuage\ClinometerGuage\obj\Debug\MainWindow.baml
+G:\Project\Inclinometer Gauge\clinometerguage-master\clinometerguage-master\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.g.resources
+G:\Project\Inclinometer Gauge\clinometerguage-master\clinometerguage-master\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.Properties.Resources.resources
+G:\Project\Inclinometer Gauge\clinometerguage-master\clinometerguage-master\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.csproj.GenerateResource.Cache
+E:\Zandieh\meineGuage\Clinometer\hadi\ClinometerGuage\ClinometerGuage\bin\Debug\ClinometerGuage.exe.config
+E:\Zandieh\meineGuage\Clinometer\hadi\ClinometerGuage\ClinometerGuage\bin\Debug\ClinometerGuage.exe
+E:\Zandieh\meineGuage\Clinometer\hadi\ClinometerGuage\ClinometerGuage\bin\Debug\ClinometerGuage.pdb
+E:\Zandieh\meineGuage\Clinometer\hadi\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignColors.dll
+E:\Zandieh\meineGuage\Clinometer\hadi\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Zandieh\meineGuage\Clinometer\hadi\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignColors.pdb
+E:\Zandieh\meineGuage\Clinometer\hadi\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Zandieh\meineGuage\Clinometer\hadi\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Zandieh\meineGuage\Clinometer\hadi\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.csprojResolveAssemblyReference.cache
+E:\Zandieh\meineGuage\Clinometer\hadi\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\HorizontalClinometer.g.cs
+E:\Zandieh\meineGuage\Clinometer\hadi\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\RoundClinometer.g.cs
+E:\Zandieh\meineGuage\Clinometer\hadi\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\VerticalClinometer.g.cs
+E:\Zandieh\meineGuage\Clinometer\hadi\ClinometerGuage\ClinometerGuage\obj\Debug\MainWindow.g.cs
+E:\Zandieh\meineGuage\Clinometer\hadi\ClinometerGuage\ClinometerGuage\obj\Debug\App.g.cs
+E:\Zandieh\meineGuage\Clinometer\hadi\ClinometerGuage\ClinometerGuage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Zandieh\meineGuage\Clinometer\hadi\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage_MarkupCompile.cache
+E:\Zandieh\meineGuage\Clinometer\hadi\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage_MarkupCompile.lref
+E:\Zandieh\meineGuage\Clinometer\hadi\ClinometerGuage\ClinometerGuage\obj\Debug\App.baml
+E:\Zandieh\meineGuage\Clinometer\hadi\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\HorizontalClinometer.baml
+E:\Zandieh\meineGuage\Clinometer\hadi\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\RoundClinometer.baml
+E:\Zandieh\meineGuage\Clinometer\hadi\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\VerticalClinometer.baml
+E:\Zandieh\meineGuage\Clinometer\hadi\ClinometerGuage\ClinometerGuage\obj\Debug\MainWindow.baml
+E:\Zandieh\meineGuage\Clinometer\hadi\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.g.resources
+E:\Zandieh\meineGuage\Clinometer\hadi\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.Properties.Resources.resources
+E:\Zandieh\meineGuage\Clinometer\hadi\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.csproj.GenerateResource.cache
+E:\Zandieh\meineGuage\Clinometer\hadi\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.csproj.CoreCompileInputs.cache
+E:\Zandieh\meineGuage\Clinometer\hadi\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.csproj.CopyComplete
+E:\Zandieh\meineGuage\Clinometer\hadi\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.exe
+E:\Zandieh\meineGuage\Clinometer\hadi\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.pdb
+E:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\bin\Debug\ClinometerGuage.exe.config
+E:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\bin\Debug\ClinometerGuage.exe
+E:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\bin\Debug\ClinometerGuage.pdb
+E:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignColors.dll
+E:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignColors.pdb
+E:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\HorizontalClinometer.g.cs
+E:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\RoundClinometer.g.cs
+E:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\VerticalClinometer.g.cs
+E:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\MainWindow.g.cs
+E:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\App.g.cs
+E:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage_MarkupCompile.cache
+E:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage_MarkupCompile.lref
+E:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\App.baml
+E:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\HorizontalClinometer.baml
+E:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\RoundClinometer.baml
+E:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\VerticalClinometer.baml
+E:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\MainWindow.baml
+E:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.g.resources
+E:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.Properties.Resources.resources
+E:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.csproj.GenerateResource.cache
+E:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.csproj.CoreCompileInputs.cache
+E:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.csproj.CopyComplete
+E:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.exe
+E:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.pdb
+F:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\bin\Debug\ClinometerGuage.exe.config
+F:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\bin\Debug\ClinometerGuage.exe
+F:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\bin\Debug\ClinometerGuage.pdb
+F:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignColors.dll
+F:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignColors.pdb
+F:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.csproj.AssemblyReference.cache
+F:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.csproj.SuggestedBindingRedirects.cache
+F:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\HorizontalClinometer.g.cs
+F:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\RoundClinometer.g.cs
+F:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\VerticalClinometer.g.cs
+F:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\MainWindow.g.cs
+F:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\App.g.cs
+F:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage_MarkupCompile.cache
+F:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage_MarkupCompile.lref
+F:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\App.baml
+F:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\HorizontalClinometer.baml
+F:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\RoundClinometer.baml
+F:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\VerticalClinometer.baml
+F:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\MainWindow.baml
+F:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.g.resources
+F:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.Properties.Resources.resources
+F:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.csproj.GenerateResource.cache
+F:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.csproj.CoreCompileInputs.cache
+F:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.csproj.CopyComplete
+F:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.exe
+F:\Zandieh\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.pdb
+F:\Zandieh\Creative\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Zandieh\Creative\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\bin\Debug\ClinometerGuage.exe.config
+F:\Zandieh\Creative\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\bin\Debug\ClinometerGuage.exe
+F:\Zandieh\Creative\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\bin\Debug\ClinometerGuage.pdb
+F:\Zandieh\Creative\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignColors.dll
+F:\Zandieh\Creative\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Zandieh\Creative\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignColors.pdb
+F:\Zandieh\Creative\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\Zandieh\Creative\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.csproj.AssemblyReference.cache
+F:\Zandieh\Creative\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.csproj.SuggestedBindingRedirects.cache
+F:\Zandieh\Creative\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\HorizontalClinometer.g.cs
+F:\Zandieh\Creative\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\RoundClinometer.g.cs
+F:\Zandieh\Creative\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\VerticalClinometer.g.cs
+F:\Zandieh\Creative\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\MainWindow.g.cs
+F:\Zandieh\Creative\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\App.g.cs
+F:\Zandieh\Creative\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Zandieh\Creative\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage_MarkupCompile.cache
+F:\Zandieh\Creative\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage_MarkupCompile.lref
+F:\Zandieh\Creative\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\App.baml
+F:\Zandieh\Creative\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\HorizontalClinometer.baml
+F:\Zandieh\Creative\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\RoundClinometer.baml
+F:\Zandieh\Creative\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\Clinometer\VerticalClinometer.baml
+F:\Zandieh\Creative\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\MainWindow.baml
+F:\Zandieh\Creative\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.g.resources
+F:\Zandieh\Creative\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.Properties.Resources.resources
+F:\Zandieh\Creative\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.csproj.GenerateResource.cache
+F:\Zandieh\Creative\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.csproj.CoreCompileInputs.cache
+F:\Zandieh\Creative\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.csproj.CopyComplete
+F:\Zandieh\Creative\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.exe
+F:\Zandieh\Creative\meineGuage\Clinometer\clinometerguage\ClinometerGuage\ClinometerGuage\obj\Debug\ClinometerGuage.pdb
